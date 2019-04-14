@@ -1,5 +1,5 @@
 
-# Extending build-in classes
+# Extending built-in classes
 
 Built-in classes like Array, Map and others are extendable also.
 
